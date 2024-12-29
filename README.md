@@ -14,10 +14,9 @@ I'm a passionate learner currently exploring various facets of Computer Science 
 
 ## 🚀 Skills and Tools
 
-- Programming Languages: Assembly, C, C++, Python, Java, JavaScript
-- Web Technologies: React, HTML, CSS
-- Frameworks & Technologies: Java Spring Boot
-- Tools & IDEs: Git, VS Code, IntelliJ IDEA, Docker, SQL
+- Programming Languages: Assembly, C, C++, Python, Java, JavaScript, TypeScript
+- Web Technologies: React, NodeJS, HTML, CSS
+- Tools & IDEs: Git, VS Code, IntelliJ IDEA
 
 ## 📊 GitHub Stats
 
